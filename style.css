@@ -10,8 +10,12 @@ h1{
 h2{
     color: greenyellow;
 }
+head{
+     background-color: black;
+}
 body{
      background-color: cyan;
+    border-radius: 10px;
 }
 #boletim{
     color: aqua;
